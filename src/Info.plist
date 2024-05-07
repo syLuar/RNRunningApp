@@ -1,0 +1,4 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need access to your location</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need access to your location</string>
